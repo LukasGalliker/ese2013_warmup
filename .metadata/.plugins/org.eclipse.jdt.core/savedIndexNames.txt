@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/Users/Lukas/Dropbox/Computer Science/Eclipse/Workspace/.metadata/.plugins/org.eclipse.jdt.core
+237455992.index
+1279229709.index
+2866552604.index
